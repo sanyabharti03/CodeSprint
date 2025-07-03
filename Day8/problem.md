@@ -1,4 +1,4 @@
-Prob7:X-Pattern Puzzle Generator
+Prob8:X-Pattern Puzzle Generator
 
 Prateek, a curious puzzle designer, has created a mysterious X-pattern puzzle for a coding event. The puzzle involves printing a square matrix of size `n × n`, where:
 
